@@ -3,7 +3,9 @@
 // @namespace    https://github.com/anka-213
 // @version      0.1
 // @description  Type a github repo using keybr.com
-// @author       You
+// @author       Andreas Källberg <anka.213@gmail.com> https://github.com/anka-213
+// @homepageURL  https://github.com/anka-213/userscripts#readme
+// @updateURL    https://raw.githubusercontent.com/anka-213/userscripts/master/keybr-github.user.js, https://openuserjs.org/install/anka-213/Keybr_github.user.js
 // @match        http://www.keybr.com/*
 // @grant        unsafeWindow
 // ==/UserScript==
